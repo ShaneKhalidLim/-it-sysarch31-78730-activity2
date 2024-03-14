@@ -24,7 +24,7 @@ li{
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.1);
   display: inline-block;
-  text-align: center;
+  text-align: center; 
   max-width: 250px; 
   padding: 50px;
   margin: 50px;

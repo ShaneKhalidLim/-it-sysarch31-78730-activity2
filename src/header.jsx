@@ -2,7 +2,7 @@ function Header(){
 
     return(
         <header>
-            <h1>SHANE</h1>
+            <h1>SHANE KHALID</h1>
         <nav>
           <ul>
               <li><a href="#">Home</a></li>
