@@ -6,7 +6,6 @@ function App(){
     return(
       <>
         <Header/>
-        <hr></hr>
         <Student/>
         <Footer/>
       </>
